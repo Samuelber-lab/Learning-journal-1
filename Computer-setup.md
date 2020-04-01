@@ -15,7 +15,7 @@ A text editor is a software that can be downloaded (like sublime, vi, emacs ...)
     - reduces the time required to go from one line to another line 
 4. label each line of code/ syntax with number, which makes it easy and user friendly to debug coding errors when ever problem appeared during code execution. 
 1. mark tabs
-1. flexibility to choose extensions
+1. flexibility to choose extensions 
 
 
 ![image-02](/Users/samuel/Desktop/image_codeFellows_practice/CLI.png)
