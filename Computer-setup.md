@@ -18,4 +18,4 @@ A text editor is a software that can be downloaded (like sublime, vi, emacs ...)
 1. flexibility to choose extensions
 
 
-![image-02](/Users/samuel/Desktop/CLI.png)
+![image-02](/Users/samuel/Desktop/image_codeFellows_practice/CLI.png)
